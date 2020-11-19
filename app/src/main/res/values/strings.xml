@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PetRepo</string>
+    <string name="splash">Welcome to PetRepo</string>
+</resources>
